@@ -1,0 +1,12 @@
+{
+  "name": "zoo-oo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/index.js",
+    "test": "node ./test/demo.js"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
+
